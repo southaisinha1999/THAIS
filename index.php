@@ -4,7 +4,7 @@
     <title>Sistema de Controle de Saldo</title>
     <style>
         body {
-            background-color: #F0E68C;
+            background-color: #FFF0F5;
         }
 
         .container {
